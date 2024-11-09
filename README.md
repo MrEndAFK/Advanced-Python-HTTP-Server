@@ -21,8 +21,8 @@ This is a multithreaded Python HTTP server that serves files from a specified di
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/MrEndAFK/Advanced-Python-HTTP-Server
+   cd Advanced-Python-HTTP-Server
 
 ## Usage
 
